@@ -9,5 +9,5 @@ This program enables GPIOs and utilizes Tiva's driver library to generate a puls
 ### Hardware
 LaunchPad:Tiva C Series TM4C1294 Connected LaunchPad http://www.ti.com/tool/sw-ek-tm4c1294xl 
 
-###Demo
+### Demo
 https://www.youtube.com/watch?v=oRoG_mAtY50
